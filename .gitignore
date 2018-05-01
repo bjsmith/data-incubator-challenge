@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.csv
+*.zip
+*.gz
+anes/*
+nlsy97-detailed/*
+nlsy97/*
+ACS/*
+*.RData
